@@ -1,0 +1,10 @@
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\bin\Debug\İzleme Lİstesi.exe.config
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\bin\Debug\İzleme Lİstesi.exe
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\bin\Debug\İzleme Lİstesi.pdb
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme Lİstesi.csproj.AssemblyReference.cache
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme_Lİstesi.Form1.resources
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme_Lİstesi.Properties.Resources.resources
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme Lİstesi.csproj.GenerateResource.cache
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme Lİstesi.csproj.CoreCompileInputs.cache
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme Lİstesi.exe
+C:\Users\onur barbaros\Desktop\İzleme Lİstesi\İzleme Lİstesi\obj\Debug\İzleme Lİstesi.pdb
